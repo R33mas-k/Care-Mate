@@ -25,7 +25,9 @@ A healthcare solution made of two complementary systems:
 ## Getting Started
 
 1. Install JDK, NetBeans, and MySQL.
-2. Create a MySQL database named `CareMate2` and create the tables used by the project (Clinic, Caregiver, Doctor, Patient, Patient_Doctor, Appointment, Medication, Medication_Log).
+2. Create the database by importing the schema:
+   `mysql -u root -p < database.sql`
+
 3. Open `src/DBConnection.java` and set your own MySQL password:
    `String password = "your_password";`
 4. Open the project in NetBeans and run `WelcometoCareMate`.
