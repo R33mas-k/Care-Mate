@@ -40,7 +40,7 @@ See `Care_Mate_Poster.pdf` for the project poster, including the database diagra
 
 ## Team
 
-Nora Alowaidh, Ibtesam Alqahtani, Rimas Aldosari, Ibtehaj Alqhtani, Aryam Hakami, Ola Yasir Omer
+Nora Alowaidh, Ibtesam Alqahtani, Reemas Aldosari, Ibtehaj Alqhtani, Aryam Hakami, Ola Yasir Omer
 
 Supervisors: Ms. Elaf Al-Ghamdi, Ms. Sarah Quhal, Dr. Haya Aldossary, Ms. Maha Alghamdi
 
